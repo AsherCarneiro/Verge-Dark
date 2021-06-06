@@ -7,6 +7,10 @@
 <br>
 <b>Verge Dark</b> Theme is a dark colored theme dedicated to making you focus on code more than the <b>code editor🐱‍💻</b>.<hr>Requires a <b>minimum of 1.56.2</b> Visual Studio Code version.<hr>
 
+## Installation😁
+
+<b>You can install from [here](https://marketplace.visualstudio.com/items?itemName=AsherCarneiro.verge-dark-theme)</b>
+
 ## <b>Issues😮?</b>
 <b>This theme is not perfect yet.😅</b><br> If you find any inconsistency in any language, you can help by reporting issues or PR [here](https://github.com/AsherCarneiro/Verge-Dark/issues), or leave a comment on marketplace.
 
