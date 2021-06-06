@@ -1,0 +1,54 @@
+{
+    "name": "verge-dark-theme",
+    "displayName": "Verge Dark",
+    "description": "This is an Open-Source Dark Theme!",
+    "publisher": "Asher Carneiro",
+    "version": "0.0.1",
+    "author": {
+        "name": "Asher Carneiro"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/AsherCarneiro/Verge-Dark"
+    },
+    "bugs": {
+        "url": "https://github.com/AsherCarneiro/Verge-Dark/issues"
+    },
+    "galleryBanner": {
+        "color": "#292c3e",
+        "theme": "dark"    
+    },
+    "keywords": [
+        "Verge Dark",
+        "Dark Theme",
+        "dark",
+        "dark theme",
+        "dark theme for vscode",
+        "Verge dark theme",
+        "dark theme",
+        "verge theme",
+        "theme dark",
+        "black theme",
+        "atom theme",
+        "sublime theme",
+        "vim dark theme",
+        "dark themes",
+        "Verge Dark",
+        "Verge Theme Dark"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Verge Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Verge Dark-color-theme.json"
+            }
+        ]
+    }
+}
